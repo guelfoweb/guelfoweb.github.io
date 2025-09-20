@@ -22,7 +22,7 @@ layout: base
         </h3>
         <p>
           {{ post.content | strip_html | truncatewords: 300 }}
-          <a href="{{ post.url | relative_url }}">Leggi tutto →</a>
+          <a href="{{ post.url | relative_url }}">Read all →</a>
         </p>
       </li>
       {%- endfor -%}
