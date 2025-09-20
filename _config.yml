@@ -2,11 +2,10 @@ title: guelfoweb
 description: ""
 author: guelfoweb
 url: ""
-
-# Tema di default
+baseurl: ""
 theme: minima
 
-# Impostazioni di build
+# Settings
 markdown: kramdown
 plugins:
   - jekyll-feed
