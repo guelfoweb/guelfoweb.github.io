@@ -1,11 +1,12 @@
-/* Font e dimensioni globali */
+/* Font and sizes */
 body {
-  font-family: "Roboto", sans-serif;
-  font-size: 18px;   
-  line-height: 1.6;  
+  font-family: "Open Sans", sans-serif;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 1.6;
 }
 
-/* Titoli leggermente più grandi */
+/* Titles */
 h1 {
   font-size: 2.2em;
 }
