@@ -5,9 +5,6 @@ categories: [ai, projects]
 tags: [weights, abliteration]
 ---
 
-Contenuto del post qui...
-
-
 Some time ago I asked myself: do we really need many days of calculation and powerful GPUs to understand how an open weights language model manages its safety mechanisms? More important, is there a fast and reversible way that does not need the creation of abliterated models to make the model more obedient to specific requests?
 
 From that question I started a research that was not easy. Making the code work with different models took time, because of many adjustments to fix library problems and memory limits.
