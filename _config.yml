@@ -1,4 +1,13 @@
 title: guelfoweb
-description:
+description: "Random notes"
 author: guelfoweb
-url: https://guelfoweb.github.io
+url: "https://guelfoweb.github.io"
+
+# Tema di default
+theme: minima
+
+# Impostazioni di build
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
