@@ -21,7 +21,7 @@ layout: base
           </a>
         </h3>
         <p>
-          {{ post.content | strip_html | truncatewords: 300 }}
+          {{ post.content | strip_html | truncatewords: 150 }}
           <a href="{{ post.url | relative_url }}">Read all →</a>
         </p>
       </li>
