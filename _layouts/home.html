@@ -20,6 +20,9 @@ layout: base
             {{ post.title | escape }}
           </a>
         </h3>
+        <p class="post-meta">
+          {{ post.date | date: "%b %d, %Y" }}
+        </p>
         <p>
           {{ post.content | strip_html | truncatewords: 150 }}
           <a href="{{ post.url | relative_url }}">Read all →</a>
