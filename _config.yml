@@ -5,8 +5,13 @@ url: ""
 baseurl: ""
 theme: minima
 
-# Settings
 markdown: kramdown
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+feed:
+  path: feed.xml     # nome file (default: feed.xml)
+  title: "guelfoweb"
+  description: "random notes"
