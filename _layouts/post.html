@@ -12,14 +12,14 @@ layout: base
       {%- if page.categories and page.categories.size > 0 -%}
         • Categories: 
         {%- for cat in page.categories -%}
-          <a href="{{ '/categories/' | append: cat | slugify | relative_url }}">{{ cat }}</a>{% unless forloop.last %}, {% endunless %}
+          <a href="{{ '/categories/#' | append: cat | slugify | relative_url }}">{{ cat }}</a>{% unless forloop.last %}, {% endunless %}
         {%- endfor -%}
       {%- endif -%}
 
       {%- if page.tags and page.tags.size > 0 -%}
         • Tags: 
         {%- for tag in page.tags -%}
-          <a href="{{ '/tags/' | append: tag | slugify | relative_url }}">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}
+          <a href="{{ '/tags/#' | append: tag | slugify | relative_url }}">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}
         {%- endfor -%}
       {%- endif -%}
     </p>
