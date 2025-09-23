@@ -4,7 +4,7 @@ title: "Tags"
 permalink: /tags/
 ---
 
-<h2>Tag index</h2>
+<h2>Tags</h2>
 <ul>
 {% for tag in site.tags %}
   {% capture name %}{{ tag | first }}{% endcapture %}
