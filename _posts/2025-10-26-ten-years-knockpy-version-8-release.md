@@ -62,8 +62,6 @@ The answers for the `http` and `https` protocols are shown in this order:
 
 * `True`, `expiration_date`, `subjectAltName`, `TLS_supported`
 
-Ecco la traduzione in inglese (livello A2–B1):
-
 ### Subdomain reconnaissance
 
 ```bash
