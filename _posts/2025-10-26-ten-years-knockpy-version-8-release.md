@@ -14,7 +14,7 @@ The goal has always been to keep the tool simple, portable, and easy to adapt to
 
 One of the things that makes me happiest, even after many years, is when a researcher writes to me privately to say thanks, or mentions Knockpy in a report or public post. Knowing that the tool really helped to find vulnerabilities or to achieve results in bug bounty programs is a quiet but deep satisfaction. Not because the credit is mine, but because the project, in its small way, has been useful to someone. And that, for me, gives meaning to the time spent keeping it alive.
 
-## What has changed
+### What has changed
 
 With version 8, I decided to deeply review the internal architecture. This need came with time, from some limitations that appeared as technologies evolved, and also from the wish to make Knockpy easier to integrate into modern environments. Many parts of the original code had become hard to extend, and some choices made years ago no longer made sense today.
 
@@ -32,7 +32,7 @@ Alongside these structural changes, I added two new features designed to improve
 
 Since the previous version, Knockpy can be used both from the command line and as a Python module. This gives more flexibility for those who want to integrate it into their own scripts.
 
-## AI helps, but human judgment remains essential
+### AI helps, but human judgment remains essential
 
 During the development of this version, I decided to experiment a bit. For some functions, especially the more structural ones, I used help from artificial intelligence tools. The experience was instructive. In some cases, I received good suggestions, useful for seeing the code from new angles or rethinking certain choices. In other cases, the code made by AI did not match the style and logic of the project.
 The time spent reviewing, fixing, and adapting was still valuable. I learned that AI can be a good assistant, but it cannot replace the thinking and responsibility that every development choice needs. In any case, it was an interesting collaboration, and I think it could have a role again in the future if used carefully.
