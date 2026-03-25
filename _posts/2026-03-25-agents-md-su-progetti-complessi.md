@@ -5,7 +5,7 @@ categories: [ai, agents]
 tags: [agents.md, security]
 ---
 
-Questa non è una guida. Voglio solo condividere la mia esperienza, soprattutto su progetti complessi dove uso l’AI in modo continuo e dove iniziano a pesare gli aspetti progettuali e di sicurezza.
+Questa non è una guida. Voglio solo condividere la mia esperienza e qualche osservazione personale, soprattutto su progetti complessi dove uso l’AI in modo continuo e dove iniziano a pesare gli aspetti progettuali e di sicurezza.
 
 Non ha molto senso cercare di scrivere un `AGENTS.md` "perfetto" fin dall'inizio. Non funziona così. Più in generale, quando lavoro a qualcosa di strutturato lo affronto come in edilizia: si parte da un progetto di massima, poi si entra nei dettagli e inevitabilmente qualcosa cambia in corso d'opera. Non perché il piano iniziale fosse sbagliato, ma perché alcune cose diventano chiare solo mentre si costruisce.
 
