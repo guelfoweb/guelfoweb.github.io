@@ -9,7 +9,7 @@ Questa non è una guida. Voglio solo condividere la mia esperienza, soprattutto 
 
 Non ha molto senso cercare di scrivere un `AGENTS.md` "perfetto" fin dall'inizio. Non funziona così. Più in generale, quando lavoro a qualcosa di strutturato lo affronto come in edilizia: si parte da un progetto di massima, poi si entra nei dettagli e inevitabilmente qualcosa cambia in corso d'opera. Non perché il piano iniziale fosse sbagliato, ma perché alcune cose diventano chiare solo mentre si costruisce.
 
-Leggendo in giro leggo spesso che `AGENTS.md` viene presentato come la soluzione per rendere gli agenti più affidabili. In parte è vero, ma il problema non è avere il file, è **come lo si scrive**.
+Leggendo in giro trovo spesso riferimenti al file `AGENTS.md` presentato come soluzione per rendere gli agenti più affidabili. In parte è vero, ma il problema non è avere il file, è **come lo si scrive**.
 
 
 ## Dove ho sbagliato all'inizio
