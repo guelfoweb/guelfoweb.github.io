@@ -26,9 +26,9 @@ Qui secondo me c'è un punto spesso sottovalutato. La lunghezza non è solo una 
 
 Tutto quello che mettiamo in `AGENTS.md` finisce nel contesto del modello, e il contesto è limitato.
 
-I modelli più recenti lavorano con contesti molto ampi, anche nell’ordine delle centinaia di migliaia di token o più, ma comunque finiti e condivisi tra prompt, codice e output.
+Senza entrare nel merito delle preferenze o delle solite discussioni tra strumenti diversi, in generale i modelli più recenti lavorano con contesti molto ampi, anche nell'ordine delle centinaia di migliaia di token o più, ma comunque finiti e condivisi tra prompt, codice e output.
 
-Ogni riga in più compete con codice e istruzioni, quindi a un certo punto perde peso o viene ignorata. Per questo non mi convince molto l'idea di file troppo completi.
+Ogni riga in più compete con codice e istruzioni, quindi a un certo punto perde peso o viene ignorata. Per questo non mi convince molto l’idea di file troppo completi.
 
 
 ## Il modo in cui lo sto usando adesso
